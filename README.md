@@ -28,6 +28,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudson-farias&layout=compact&langs_count=7&theme=github_dark"/>
     <img align="right" alt="my-pic" height="150" style="border-radius:50px;" src="https://imgur.com/WIBXeAt.gif">
         
-  ![Snake animation](https://github.com/Shinikatame/Shinikatame/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Hudson-Farias/Hudson-Farias/blob/output/github-contribution-grid-snake.svg)
         
 </div>
