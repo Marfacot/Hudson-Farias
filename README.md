@@ -24,11 +24,10 @@
  
  <div align="center">
     <a href="https://github.com/hudson-farias">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shinikatame&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinikatame&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hudson-farias&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudson-farias&layout=compact&langs_count=7&theme=github_dark"/>
     <img align="right" alt="my-pic" height="150" style="border-radius:50px;" src="https://imgur.com/WIBXeAt.gif">
         
   ![Snake animation](https://github.com/Shinikatame/Shinikatame/blob/output/github-contribution-grid-snake.svg)
         
 </div>
-https://github.com/Shinikatame/Shinikatame/blob/output/github-contribution-grid-snake.svg
